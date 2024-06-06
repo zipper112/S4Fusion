@@ -1,3 +1,5 @@
+# S4Fusion: Saliency-aware Selective State Space Model for Infrared Visible Image Fusion
+
 ## Environment
 
 > Python 3.11
@@ -26,4 +28,9 @@
 
 ## Train
 
-> The train code and whole training dataset will be public available after Sep 29.
+> The train code and whole training dataset will be public available after Sep 29 for academic and research purposes only.
+
+## Results
+
+![tupian1](.\\imgs\\results.png)
+
