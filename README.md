@@ -32,5 +32,5 @@
 
 ## Results
 
-![tupian1](.\\imgs\\results.png)
+![tupian1](./imgs/results.png)
 
